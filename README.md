@@ -6,6 +6,6 @@ Steps:
 2. Click on File.
 3. Click on Open Library From...
 4. Choose for
-4.1. Github 
-4.2. Device (Local Drive after downloaded from Github)
+  4.1. Github 
+  4.2. Device (Local Drive after downloaded from Github)
 5. Start using the Splunk Icons in you own diagrams.
